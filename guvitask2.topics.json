@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66c015c44ab78c17451a51cb"
+  },
+  "id": 1,
+  "user_id": 1,
+  "name": "Mongo DB",
+  "description": "Introduction to Mongo DB",
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c2297fe11fdd020162b618"
+  },
+  "id": 2,
+  "user_id": 1,
+  "name": "React JS",
+  "description": "Introduction to useref()",
+  "date": {
+    "$date": "2020-11-13T00:00:00.000Z"
+  }
+}]

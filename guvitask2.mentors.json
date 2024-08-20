@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66c2d79bfc05490b04489f9f"
+  },
+  "id": 5,
+  "name": "Nagarajan",
+  "mentees": [
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c2d79bfc05490b04489fa0"
+  },
+  "id": 6,
+  "name": "Sridar Vembu",
+  "mentees": [
+    1,
+    2
+  ]
+}]

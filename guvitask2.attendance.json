@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "66c0152e4ab78c17451a51ca"
+  },
+  "user_id": 1,
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "66c2eca60708d6054c0951ae"
+  },
+  "user_id": 2,
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "66c2eca60708d6054c0951af"
+  },
+  "user_id": 3,
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "present": false
+}]

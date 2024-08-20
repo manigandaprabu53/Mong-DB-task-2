@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66c2d327fc05490b04489f9b"
+  },
+  "user_id": 1,
+  "problem_id": 10,
+  "solved_at": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c2d327fc05490b04489f9c"
+  },
+  "user_id": 2,
+  "problem_id": 20,
+  "solved_at": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c2d327fc05490b04489f9d"
+  },
+  "user_id": 3,
+  "problem_id": 13,
+  "solved_at": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c2d50ffc05490b04489f9e"
+  },
+  "user_id": 2,
+  "problem_id": 12,
+  "solved_at": {
+    "$date": "2020-10-27T00:00:00.000Z"
+  }
+}]

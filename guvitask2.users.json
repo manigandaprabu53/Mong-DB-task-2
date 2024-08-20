@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66c013f24ab78c17451a51c8"
+  },
+  "id": 1,
+  "name": "Johny Depp",
+  "email": "johnydepp@outlook.com",
+  "batch": 10
+},
+{
+  "_id": {
+    "$oid": "66c2ca44fc05490b04489f96"
+  },
+  "id": 2,
+  "name": "Mani",
+  "email": "mani@outlook.com",
+  "batch": 59
+},
+{
+  "_id": {
+    "$oid": "66c2ca44fc05490b04489f97"
+  },
+  "id": 3,
+  "name": "Magesh",
+  "email": "magesh@outlook.com",
+  "batch": 120
+}]

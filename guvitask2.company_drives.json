@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66c017964ab78c17451a51cd"
+  },
+  "company_name": "Infosys",
+  "job_profile": "Architect",
+  "eligibility": "8 years expierence",
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "selected_students": 1
+},
+{
+  "_id": {
+    "$oid": "66c2cbcffc05490b04489f98"
+  },
+  "company_name": "Wipro",
+  "job_profile": "Senior Architect",
+  "eligibility": "10 Years of Expierence",
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "selected_students": [
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c2cbcffc05490b04489f99"
+  },
+  "company_name": "Zoho",
+  "job_profile": "Full Stack Developer",
+  "eligibility": "0 or more Years",
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "selected_students": [
+    1,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c2cd9dfc05490b04489f9a"
+  },
+  "company_name": "Microsoft",
+  "job_profile": "Full Stack Developer",
+  "eligibility": "2 Years of Expierence",
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "selected_students": [
+    2
+  ]
+}]
